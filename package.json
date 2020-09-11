@@ -1,0 +1,15 @@
+{
+  "name": "wx-create-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "create": "node ./bin/create.js"
+  },
+  "bin": {
+    "wx-create-react": "./bin/create.js"
+  },
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  }
+}
